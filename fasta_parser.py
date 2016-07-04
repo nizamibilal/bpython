@@ -21,7 +21,7 @@ import re
 from Bio.PDB import *
 
 ## Welcome message
-print ('\nPDBMINER\n', 'written by Bilal Nizami\n', 'UKZN, Durban 2016\n\n\n', end="")
+print ('\n\tPDBMINER\n', 'written by Bilal Nizami\n', 'UKZN, Durban 2016\n\n\n', end="")
 
 #==============================================================================
 # Setting the options
