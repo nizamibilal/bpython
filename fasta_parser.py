@@ -206,22 +206,3 @@ if options.path != None:
 			
 
 sf.close()
-#	open file with the path to pdbs
-#if options.pdblist != None:
-#	pdbfl=[]
-#	fp = open(options.pdblist, 'r')
-#	pdbfl =	fp.read()
-#	pdbfl = pdbfl.split('\n')
-#	fp.close()
-
-### iterate over pdbfl
-#test = ''
-#test1 = ''
-#j = 0
-#for i in pdbfl:
-#	test1 = i
-#	test = str(pdbid[j])
-	#print (test, test1)
-#	j=j+1
-#	if test.find(test1):
-#	 print ('found', test)
